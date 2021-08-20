@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ActivityResult</string>
+    <string name="selecionar_estado">Selecione um estado</string>
+    <string name="action_settings">Configurações</string>
+    <string name="title_activity_tela_selecao">selecione</string>
+    <string-array name="estados">
+        <item>Alagoas</item>
+        <item>Minas gerais</item>
+        <item>Amazonas</item>
+        <item>Sergipe</item>
+    </string-array>
+</resources>

@@ -1,0 +1,10 @@
+C:\Users\Jonas\Desktop\testeMinimax\testeMinimax\bin\Debug\testeMinimax.exe
+C:\Users\Jonas\Desktop\testeMinimax\testeMinimax\bin\Debug\testeMinimax.pdb
+C:\Users\Jonas\Desktop\testeMinimax\testeMinimax\obj\Debug\testeMinimax.Properties.Resources.resources
+C:\Users\Jonas\Desktop\testeMinimax\testeMinimax\obj\Debug\testeMinimax.csproj.GenerateResource.Cache
+C:\Users\Jonas\Desktop\testeMinimax\testeMinimax\obj\Debug\testeMinimax.exe
+C:\Users\Jonas\Desktop\testeMinimax\testeMinimax\obj\Debug\testeMinimax.pdb
+C:\Users\Jonas\Desktop\testeMinimax\testeMinimax\obj\Debug\testeMinimax.frmPrincipal.resources
+C:\Users\Jonas\Desktop\testeMinimax\testeMinimax\obj\Debug\testeMinimax.frmQuemComeca.resources
+C:\Users\Jonas\Desktop\testeMinimax\testeMinimax\obj\Debug\testeMinimax.Botao.resources
+C:\Users\Jonas\Desktop\testeMiniMax\testeMinimax\obj\Debug\testeMinimax.csprojResolveAssemblyReference.cache

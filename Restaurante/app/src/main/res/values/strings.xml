@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Restaurante</string>
+    <string name="Pedir">Pedir em casa</string>
+    <string name="Jantar">Jantar fora</string>
+    <string name="Escolher">Escolher Restaurante</string>
+    <string name="Ligar">Ligar</string>
+    <string name="Restaurante">Restaurante: </string>
+    <string name="Endereco">Endereço: </string>
+    <string name="Telefone">Tel.: </string>
+    <string name="erro">Não foi possivel executar a ação!</string>
+</resources>
